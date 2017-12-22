@@ -8,4 +8,4 @@
 
 2 没有用POOLING层
 
-3 CTC算COST
+3 CTC on top
